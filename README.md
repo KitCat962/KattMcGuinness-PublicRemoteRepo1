@@ -6,3 +6,4 @@ Edit for Exercise #5
 Edit to create a conflict for Exercise #6
 
 changes
+changes 2
